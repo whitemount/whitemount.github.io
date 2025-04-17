@@ -4,7 +4,8 @@
       "namespace": "android_app",
       "package_name": "at.mci4me.mymci2",
       "sha256_cert_fingerprints": [
-        "90:F6:F3:65:C1:C4:39:7A:30:B0:8E:3F:A7:36:1A:9B:BE:35:37:44:24:5E:04:DA:67:26:C6:29:F5:C9:31:60"
+        "90:F6:F3:65:C1:C4:39:7A:30:B0:8E:3F:A7:36:1A:9B:BE:35:37:44:24:5E:04:DA:67:26:C6:29:F5:C9:31:60",
+        "DB:9B:3B:B2:FA:5D:59:72:9C:5A:09:5C:9D:88:84:2C:4C:92:52:AA:7D:E8:07:73:27:0D:48:C9:BC:41:1C:52"
       ]
     }
   }]
