@@ -1,13 +1,9 @@
-<<<<<<< HEAD
+
 include: [".well-known"]
-=======
->>>>>>> 08297769abbbc5f550dba57a7355689baa46385f
 defaults:
   - scope:
       path: ".well-known/apple-app-site-association"
     values:
-<<<<<<< HEAD
       content_type: "application/json"
-=======
-      content_type: "application/json"
->>>>>>> 08297769abbbc5f550dba57a7355689baa46385f
+
+
